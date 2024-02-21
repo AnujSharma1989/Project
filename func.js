@@ -20,7 +20,7 @@ function add(a,b)
 {
 for (i=a; i<b;i++)
 {
-    console.log(i);
+    document.writeln(i);
 }
 }
 add(1,5);
